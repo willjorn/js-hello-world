@@ -7,7 +7,7 @@ to the console (the panel on the right)
 console.log('Hello, World!'); // Task 1: Print 'Hello, World!'
 
 /*  
-Next, PLAY! 
+Next, PLAY!
 Modify your code on line 7 to try to accomplish the tasks listed below:
 
    1. Change the message that is printed.
@@ -58,3 +58,4 @@ console.log('Quoth the Raven "Nevermore"');
    9. Other. You choose!
 */
 console.log('Hello, ' + 'World!'); // Concatenate strings
+
